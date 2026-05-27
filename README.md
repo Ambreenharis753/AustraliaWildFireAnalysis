@@ -85,7 +85,7 @@ Histograms
 
 Scatter Plots
 
-<B> Key analysis areas included: <B>
+<B> Key analysis areas included: </B>
 
 wildfire frequency over time
 
